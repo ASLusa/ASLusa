@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ASLusa
 - 👀 I’m interested in ... Projeto de Hardware e Firmware
 - 🌱 I’m currently learning ... Análise e Desenvolvimento de Sistemas
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Desenvolvimento de Produto
 - 📫 How to reach me ...
 
 <!---
